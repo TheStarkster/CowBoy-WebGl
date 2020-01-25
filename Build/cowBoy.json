@@ -1,0 +1,15 @@
+{
+"companyName": "TechSoft",
+"productName": "Mini Cowboy Runner",
+"productVersion": "1.0",
+"dataUrl": "cowBoy.data.unityweb",
+"wasmCodeUrl": "cowBoy.wasm.code.unityweb",
+"wasmFrameworkUrl": "cowBoy.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.18f1"
+}
